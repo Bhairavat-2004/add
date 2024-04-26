@@ -6,6 +6,6 @@ public static void main(){
     {
         sum+=i;
     }
-    System.out.println("Sum of all odd numbers is"+n+":"+sum);
+    System.out.println("Sum of all odd numbers after executing"+n+":"+sum);
 }
 }
